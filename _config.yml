@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: zyf-xiaohao
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: zyf-xiaohao/zyf-xiaohao.github.io
   instagram:
   linkedin:
   pinterest:
